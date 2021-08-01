@@ -1,0 +1,67 @@
+body {
+	background-color: #141d26;
+}
+
+#navdesifn{
+	color: white;
+    background-color: #141d26 !important;
+    margin-top: 15px;
+}
+
+.navbar-brand{
+    color: white !important;
+    font-size: 25px;
+
+} 	
+
+.navbar-nav {
+
+	font-size: 20px;
+}
+
+.card {
+	background-color: #243447;
+}
+
+.card-header {
+	color: white;
+	font-size: 25px;
+}
+input {
+   border: 1px green solid !important;
+    color: white !important;
+    background-color: #141d26 !important;
+}
+
+#labelall {
+	color: white;
+}
+#homepagealert {
+	color: white;
+    background-color: transparent;
+    border-color: green;
+}
+
+#titleid {
+    color: white;
+    font-weight: 300;
+}
+
+#featuresid {
+    color: white;
+        list-style-type: none;
+
+}
+.scamabox {
+    color: white;
+    font-size: 25px; 
+}
+
+.card-columns {
+  @include media-breakpoint-only(lg) {
+    column-count: 4;
+  }
+  @include media-breakpoint-only(xl) {
+    column-count: 5;
+  }
+}
