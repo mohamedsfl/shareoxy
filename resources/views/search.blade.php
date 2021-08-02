@@ -96,7 +96,7 @@
 		</div>
 		<div class="mobile-menu-panel">
 			<div class="panel-logo">
-				<a href=""><img src="assets/img/logo-white.png" alt="Funden"></a>
+				<a href=""><img src="logo.png" alt="Funden"></a>
 			</div>
 			<ul class="panel-menu">
 				<li class="current">

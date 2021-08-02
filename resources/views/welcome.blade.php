@@ -95,7 +95,7 @@
 		</div>
 		<div class="mobile-menu-panel">
 			<div class="panel-logo">
-				<a href=""><img src="assets/img/logo-white.png" alt="Funden"></a>
+				<a href=""><img src="logo.png" alt="Funden"></a>
 			</div>
 			<ul class="panel-menu">
 				<li class="current">
@@ -105,7 +105,7 @@
 				
 			</ul>
 			<div class="panel-extra">
-				<a href="#" class="main-btn btn-white">
+				<a href="Ajouter" class="main-btn btn-white">
 					Ajouter un concentrateur  <i class="far fa-arrow-right"></i>
 				</a>
 			</div>
